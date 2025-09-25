@@ -2404,7 +2404,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .video-right .overlay-bg {
   border-radius: 10px;
-  background-color: rgba(0, 0, 0, 0.78);
+  /* background-color: rgba(0, 0, 0, 0.78); */
+  background: url(../img/profile2.png) no-repeat center;
 }
 
 .video-right .play-btn {
